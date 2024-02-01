@@ -2,6 +2,9 @@
   "compilerOptions": {
     "paths": {
       "@styles/*": ["./src/assets/styles/*"],
+      "@svg/*": ["./src/assets/svg/*"],
+      "@images/*": ["./src/assets/images/*"],
+      "@fonts/*": ["./src/assets/fonts/*"],
     },
     "target": "ESNext",
     "useDefineForClassFields": true,
