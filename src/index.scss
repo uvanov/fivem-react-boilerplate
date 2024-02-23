@@ -3,6 +3,13 @@ body {
   height: 100vh;
 }
 
+input, button {
+  font-family: inherit;
+  font-weight: inherit;
+  border: 0;
+  outline: 0;
+}
+
 #root {
   height: 100%
 }
